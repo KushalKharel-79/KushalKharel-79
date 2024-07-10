@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushal Kharel</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalkharel-79&label=Profile%20views&color=0e75b6&style=flat" alt="kushalkharel-79" /> </p>
 
